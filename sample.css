@@ -1,0 +1,57 @@
+.topnav{
+    color: white;
+    font-family: 'Anton', sans-serif;
+    display:inline-block;
+    position: relative;
+    text-align: center;
+    word-spacing: 100px;
+    margin-left: 13%;
+}
+
+.divFunction{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    margin-left: 6%;
+    margin-top: 1px;
+    opacity: 30%;
+}
+
+.divObjects{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 37%;
+    margin-top: -320px;
+    position: relative;
+    align-self: center
+}
+
+.divArray{
+    text-align: center;
+    height: 300px;
+    width: 300px;
+    margin-left: 69%;
+    margin-top: -320px;
+    position: relative;
+    align-self: center;
+
+}
+
+
+.bodyBKG{
+    margin-top: -24%;
+
+}
+
+.footer{
+    align-self: center
+}
+
+/* .functionInfo{
+    width:75%;
+    height: 300px;
+    position: relative;
+    align-self: center
+} */
